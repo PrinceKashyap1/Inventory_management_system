@@ -4,7 +4,7 @@
 ![image](https://github.com/PrinceKashyap1/Inventory_management_system/assets/142121596/29f3b6e1-24a6-45e1-8e03-e8e59b4cfb24)
 
 ![image](https://github.com/PrinceKashyap1/Inventory_management_system/assets/142121596/80fdaa3e-12dd-44e1-b19c-241c8e79137f)
-(https://github.com/PrinceKashyap1/Inventory_management_system/assets/142121596/f2a010a6-9818-4779-81d7-46bdfc0f4a24)
+
 ![image](https://github.com/PrinceKashyap1/Inventory_management_system/assets/142121596/3d179bef-03d7-46e8-9a83-2daa7e0e9124)![image]
 ![image](https://github.com/PrinceKashyap1/Inventory_management_system/assets/142121596/b0b80a09-b13b-4071-9bd1-db36b243ed4e)
 ![image](https://github.com/PrinceKashyap1/Inventory_management_system/assets/142121596/dd0015da-27bf-45a2-b19e-68397ec2dcd2)
